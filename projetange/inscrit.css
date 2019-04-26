@@ -1,0 +1,30 @@
+body
+{
+	padding: 0;
+	margin: 0;
+	background: url(images/construction8.jpg) no-repeat;
+	background-size: cover;
+}
+
+h1
+{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+form
+{
+	margin-top: 33px;
+	padding: 70px;
+}
+
+#contact-form
+{
+	font-size: 20px;
+	background: #fff;
+	padding: 40px;
+	border-radius: 10px;
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-top: 10%;
+}
